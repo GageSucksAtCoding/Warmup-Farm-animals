@@ -1,0 +1,48 @@
+running = True
+while running:
+  Animal = input("Pick a farm animal >> ")
+  NumberSound = input("How many times will this animal make noise >> ")
+  if Animal + NumberSound == "Cow" "1":
+    print("The Cow went: Moo")
+  if Animal + NumberSound == "Cow" "2":
+    print("The Cow went: Moo Moo")
+  if Animal + NumberSound == "Cow" "3":
+    print("The Cow went: Moo Moo Moo")
+  if Animal + NumberSound == "Cow" "4":
+    print("The Cow went: Moo Moo Moo Moo")
+  if Animal + NumberSound == "Cow" "5":
+    print("The Cow went: Moo Moo Moo Moo Moo")
+  if Animal + NumberSound == "Cow" "6":
+    print("The Cow ran out of breath and fainted trying to moo 6 times")
+  if Animal + NumberSound == "Chicken" "1":
+    print("The Chicken went: Bock")
+  if Animal + NumberSound == "Chicken" "2":
+    print("The Chicken went: Bock Bock")
+  if Animal + NumberSound == "Chicken" "3":
+    print("The Chicken went: Bock Bock Bock")
+  if Animal + NumberSound == "Chicken" "4":
+    print("The Chicken went: Bock Bock Bock Bock")
+  if Animal + NumberSound == "Chicken" "5":
+    print("The Chicken went: Bock Bock Bock Bock BOCK")
+  if Animal + NumberSound == "Pig" "1":
+    print("The Pig went: Oink")
+  if Animal + NumberSound == "Pig" "2":
+    print("The Pig went: Oink Oink")
+  if Animal + NumberSound == "Pig" "3":
+    print("The Pig went: Oink Oink Oink")
+  if Animal + NumberSound == "Pig" "4":
+    print("The Pig went: Oink Oink Oink Oink")
+  if Animal + NumberSound == "Pig" "5":
+    print("The Pig went: Oink Oink Oink Oink *Wheeze* oink...")
+  if Animal + NumberSound == "Sheep" "1":
+    print("The Sheep went: Baah")
+  if Animal + NumberSound == "Sheep" "2":
+    print("The Sheep went: Baah Baah")
+  if Animal + NumberSound == "Sheep" "3":
+    print("The Sheep went: Baah Baah Baah")
+  if Animal + NumberSound == "Sheep" "4":
+    print("The Sheep went: Baah Baah Baah Baah")
+  if Animal + NumberSound == "Sheep" "5":
+    print("The Sheep went: Baah Baah Baah Baah Baah")
+
+    runagain = True
